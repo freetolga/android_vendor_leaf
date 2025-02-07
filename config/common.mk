@@ -40,8 +40,9 @@ PRODUCT_PACKAGES += \
 
 # Browser
 PRODUCT_PACKAGES += \
-    TrichromeChrome6432 \
-    TrichromeWebView6432
+    TrichromeLibrary \
+    TrichromeChrome \
+    TrichromeWebView
 
 # Charger
 PRODUCT_PACKAGES += \
